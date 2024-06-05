@@ -1,0 +1,34 @@
+{
+    "name": "Ball_Input",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "d17985a8-eb7d-48c3-94f4-cbd3cbe599b8",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "302ba80e-4df4-4225-abab-a7bc0d01965b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "20e975be-c06b-4814-ac91-4455e706b73c",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
