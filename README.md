@@ -1,4 +1,6 @@
-# AR-Handball - Computer Vision Project - University of Rome La Sapienza 
+# AR-Handball
+
+### Computer Vision Project - Sapienza University of Rome
 
 A shared, interactive AR experience.
 
