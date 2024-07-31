@@ -4,7 +4,7 @@
 
 A shared, interactive AR experience.
 
-AR-Handball is an smartphone AR (Augmented reality) multiplayer game built with Unity, AR Foundation and the ConjureKit by Auki Labs.
+AR-Handball is a smartphone AR (Augmented reality) multiplayer game built with Unity, AR Foundation and the ConjureKit by Auki Labs.
 
 Players can join the shared session by using their own smartphone. 
 Each user can interact with a virtual ball placed on a virtual field by using their real hands, which will be detected by the smartphone camera.
